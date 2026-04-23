@@ -1,6 +1,6 @@
 # 🤖 Donchian / Turtle Soup Crypto Trading Bot
 
-A multi-exchange, multi-timeframe Python trading bot that automatically switches
+A multi-exchange Python trading bot that automatically switches
 between two complementary strategies based on live market conditions.
 
 ---
